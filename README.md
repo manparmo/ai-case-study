@@ -33,18 +33,8 @@ market, consulting services around products that produce a lot of data, for exam
 Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs would be a great boost for Cisco as these use cases are necessary for the miriad of products and tools that are provided to their customers, this could be the next step in Cisco's AI Journey.
 
 
-
-
 [^1]: Cisco Global Impact.
   [Cisco Global Impact.]([https://www.weforum.org/organizations/cisco/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx))
 [^2]: Word Economic Forum.
   [Word Economic Forum.](https://www.weforum.org/organizations/cisco/)
-
-##  References for this Case Study:
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-
 

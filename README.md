@@ -1,4 +1,4 @@
-# TITLE
+# Cisco Systems 
 
 ## Overview and Origin
 
@@ -18,23 +18,16 @@ Recently as of this year, Cisco has jumped in the AI bandwagon as measure to sta
 
 The biggest trend that Cisco has moved to is the embracement of  Cloud solutions, historically speaking, Cisco has had a major commitment to on-prem networks, give the digital transformation happening today not jumping on the Cloud wagon would have meant technological stagnation and lack of competitiveness with offerings provided by other vendors in the telecomunications world, transition of it's core products to AI enablement has been the second trend driven by Cisco, this is quite recent, to the point that only a few of its core products have embedded AI solutions and most of the innovations are demonstrated with 3rd party or opensource AI Models that enhance their current telecomunications proucts. There is a nascient effort to push towards quantum networks based on the principles of quantum physics to increase bandwidth throuput and distance.
 
+One of the most interesting AI use cases that were presented on Cisco Live, which is the yearly corporate convention where new technology announcements are made, was a CI/CD approach to configure network equipment using AI, in where the network engineer prepares the configuration changes to be applied to key network equipemts using a YANG file containing all the configuration details, these file can be analized by AI indicating what the configuration is for and highlighting if any best practices are being skipped, also the configuration is explained in terms that it makes sense to the engineer and to potential reviewer who has no idea about to configure these network equipments, this gets submitted as a push request on GitLab, which automatically opens a request on the ITSM system (like service now) and both items needs to be approved (in Service Now and Gitlab), before the configurations can be submitted to the equipment.
+
 Cisco has strong competition in every technology vertical it is involved with, in the Enterprise Networking it is Juniper in the US and Huawei internationally, in the security vertical Fortinent and Checkpoint, in the Collaboration world Microsoft and NiceCX, in the Server Hardware HP and Dell, in Application Monitoring and Performance Nagios and Dynatrace, DataDog.
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 As a public traded company, their measurements are mostly financial (Year over Year Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people around the world through Cisco technology and educational efforts to lift people out of poverty.
 
+Competitively speaking Cisco's performance has improved using net income and sales as a criteria, however it's bigger competitor in the service provider network (Huawei) is
+selling just as much in the Chinese market an international market as Cisco sells in the whole world, Huawei reach in China is higher and the company is partially owned by the Chinese Communist party, which gives it an edge when selling domestically and abroad, it is still too early to say what will happen with the biggest competitor (Huawei) as politicall
 
-* How is your company performing relative to competitors in the same field?
+Producing it's own set AI products that can be used by other vendors and their own core products is a great oportunity to Cisco to compete and dive into the Artificial Intelligence
+market, consulting services around products that produce a lot of data, for example their core networking products, security products and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs woudl be a great boost for Cisco.these technologies appropriate for your solution?

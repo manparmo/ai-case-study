@@ -22,19 +22,19 @@ One of the most interesting AI use cases that were presented on Cisco Live, whic
 
 Cisco has strong competition in every technology vertical it is involved with, in the Enterprise Networking it is Juniper in the US and Huawei internationally, in the security vertical Fortinent and Checkpoint, in the Collaboration world Microsoft and NiceCX, in the Server Hardware HP and Dell, in Application Monitoring and Performance Nagios and Dynatrace, DataDog.
 
-As a public traded company, their measurements are mostly financial (Year over Year growth of Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people [^1] around the world through Cisco technology and educational efforts to lift people out of poverty.
+As a public traded company, their measurements are mostly financial [^3](Year over Year growth of Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people [^1] around the world through Cisco technology and educational efforts to lift people out of poverty.
 
 Competitively speaking Cisco's performance has improved using net income and sales as a criteria, however it's bigger competitor in the service provider network (Huawei) is
 selling just as much in the Chinese market an international market as Cisco sells in the whole world, Huawei reach in China is bigger and the company is partially owned by the Chinese Communist party, which gives it an edge when selling domestically and abroad, it is still too early to say what will happen with the biggest competitor (Huawei) as politically speaking lots of doors are shutting for Huawei internationally. 
 
 In the AI journey, Cisco is starting to produce it's first external results after C-Suite leadership demanded to the core business units to incorporate AI to their products, Cisco Webex is the first product to provide general availability of AI products to summarize Webex Meetings, catchup information during meetings, and allow a better way to send messages by usign the Webex AI assistantn, this can be seeing as a a key development that will be replicated in other Cisco Core technologies: Producing it's own set AI products that can be used by other vendors and their own core products is a great oportunity to Cisco to compete and dive into the Artificial Intelligence
-market, consulting services around products that produce a lot of data, for example their core networking products, security products and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
+market, consulting services around products that produce a lot of data, for example their core networking products, security products [^2] and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
 Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs would be a great boost for Cisco as these use cases are necessary for the miriad of products and tools that are provided to their customers, this could be the next step in Cisco's AI Journey.
 Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
+
 
 [^1]: [Global Impact on 1 Billion People]([https://pages.github.com/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx)).
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^2]: [AI in Security](https://www.weforum.org/agenda/2024/01/data-ai-cybersecurity-defenders/).
+[^3]: [Cisco 2023 Annual Report](https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf).

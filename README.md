@@ -31,9 +31,9 @@ In the AI journey, Cisco is starting to produce it's first external results afte
 market, consulting services around products that produce a lot of data, for example their core networking products, security products and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
 Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs would be a great boost for Cisco as these use cases are necessary for the miriad of products and tools that are provided to their customers, this could be the next step in Cisco's AI Journey.
+Here is a simple footnote[^1].
 
-
-dsfsdfsdfsdfs
+A footnote can also have multiple lines[^2].
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.

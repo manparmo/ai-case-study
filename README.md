@@ -36,5 +36,5 @@ Here is a simple footnote[^1].
 
 
 [^1]: [Global Impact on 1 Billion People]([https://pages.github.com/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx)).
-[^2]: [AI in Security](https://www.weforum.org/agenda/2024/01/data-ai-cybersecurity-defenders/).
+[^2]: [Cisco AI in Security](https://www.weforum.org/agenda/2024/01/data-ai-cybersecurity-defenders/).
 [^3]: [Cisco 2023 Annual Report](https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf).

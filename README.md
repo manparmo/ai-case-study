@@ -31,8 +31,6 @@ In the AI journey, Cisco is starting to produce it's first external results afte
 market, consulting services around products that produce a lot of data, for example their core networking products, security products [^2] and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
 Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs would be a great boost for Cisco as these use cases are necessary for the miriad of products and tools that are provided to their customers, this could be the next step in Cisco's AI Journey.
-Here is a simple footnote[^1].
-
 
 
 [^1]: [Global Impact on 1 Billion People]([https://pages.github.com/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx)).

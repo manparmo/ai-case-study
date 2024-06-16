@@ -30,4 +30,15 @@ selling just as much in the Chinese market an international market as Cisco sell
 In the AI journey, Cisco is starting to produce it's first external results after C-Suite leadership demanded to the core business units to incorporate AI to their products, Cisco Webex is the first product to provide general availability of AI products to summarize Webex Meetings, catchup information during meetings, and allow a better way to send messages by usign the Webex AI assistantn, this can be seeing as a a key development that will be replicated in other Cisco Core technologies: Producing it's own set AI products that can be used by other vendors and their own core products is a great oportunity to Cisco to compete and dive into the Artificial Intelligence
 market, consulting services around products that produce a lot of data, for example their core networking products, security products and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
-Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs woudl be a great boost for Cisco.these technologies appropriate for your solution?
+Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs would be a great boost for Cisco as these use cases are necessary for the miriad of products and tools that are provided to their customers, this could be the next step in Cisco's AI Journey.
+
+
+References for this Case Study[^2].
+
+[^1]: Cisco Global Impact.
+  https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  [Word Economic Forum.](https://www.weforum.org/organizations/cisco/)
+
+
+

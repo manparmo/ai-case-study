@@ -35,10 +35,9 @@ Products like auto device configuration powered by AI, or Auto Data analisys for
 
 ##  References for this Case Study:
 
-[^1]: Cisco Global Impact.
-  [Cisco Global Impact.]([https://www.weforum.org/organizations/cisco/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx))
-[^2]: Word Economic Forum.
-  [Word Economic Forum.](https://www.weforum.org/organizations/cisco/)
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
 
 
 

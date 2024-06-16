@@ -35,7 +35,7 @@ Products like auto device configuration powered by AI, or Auto Data analisys for
 
 
 
-References for this Case Study[^2].
+##References for this Case Study.
 
 [^1]: Cisco Global Impact.
   [Cisco Global Impact.]([https://www.weforum.org/organizations/cisco/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx))

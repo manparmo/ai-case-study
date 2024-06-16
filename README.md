@@ -22,7 +22,7 @@ One of the most interesting AI use cases that were presented on Cisco Live, whic
 
 Cisco has strong competition in every technology vertical it is involved with, in the Enterprise Networking it is Juniper in the US and Huawei internationally, in the security vertical Fortinent and Checkpoint, in the Collaboration world Microsoft and NiceCX, in the Server Hardware HP and Dell, in Application Monitoring and Performance Nagios and Dynatrace, DataDog.
 
-As a public traded company, their measurements are mostly financial (Year over Year growth of Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people around the world through Cisco technology and educational efforts to lift people out of poverty.
+As a public traded company, their measurements are mostly financial (Year over Year growth of Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people [^1] around the world through Cisco technology and educational efforts to lift people out of poverty.
 
 Competitively speaking Cisco's performance has improved using net income and sales as a criteria, however it's bigger competitor in the service provider network (Huawei) is
 selling just as much in the Chinese market an international market as Cisco sells in the whole world, Huawei reach in China is bigger and the company is partially owned by the Chinese Communist party, which gives it an edge when selling domestically and abroad, it is still too early to say what will happen with the biggest competitor (Huawei) as politically speaking lots of doors are shutting for Huawei internationally. 
@@ -35,6 +35,6 @@ Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
-[^1]: My reference.
+[^1]: [Global Impact on 1 Billion People]([https://pages.github.com/](https://investor.cisco.com/news/news-details/2023/Cisco-Exceeds-Goal-to-Positively-Impact-One-Billion-People/default.aspx)).
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.

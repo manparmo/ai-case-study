@@ -1,4 +1,4 @@
-# Cisco Systems 
+# Cisco Systems and it's AI Journey
 
 ## Overview and Origin
 
@@ -22,12 +22,12 @@ One of the most interesting AI use cases that were presented on Cisco Live, whic
 
 Cisco has strong competition in every technology vertical it is involved with, in the Enterprise Networking it is Juniper in the US and Huawei internationally, in the security vertical Fortinent and Checkpoint, in the Collaboration world Microsoft and NiceCX, in the Server Hardware HP and Dell, in Application Monitoring and Performance Nagios and Dynatrace, DataDog.
 
-As a public traded company, their measurements are mostly financial (Year over Year Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people around the world through Cisco technology and educational efforts to lift people out of poverty.
+As a public traded company, their measurements are mostly financial (Year over Year growth of Net Income), Net Income, however, there are aspirational goals  that Cisco as has set like the Global impact initiative, where the goal was to impact positively over a billion people around the world through Cisco technology and educational efforts to lift people out of poverty.
 
 Competitively speaking Cisco's performance has improved using net income and sales as a criteria, however it's bigger competitor in the service provider network (Huawei) is
-selling just as much in the Chinese market an international market as Cisco sells in the whole world, Huawei reach in China is higher and the company is partially owned by the Chinese Communist party, which gives it an edge when selling domestically and abroad, it is still too early to say what will happen with the biggest competitor (Huawei) as politicall
+selling just as much in the Chinese market an international market as Cisco sells in the whole world, Huawei reach in China is bigger and the company is partially owned by the Chinese Communist party, which gives it an edge when selling domestically and abroad, it is still too early to say what will happen with the biggest competitor (Huawei) as politically speaking lots of doors are shutting for Huawei internationally. 
 
-Producing it's own set AI products that can be used by other vendors and their own core products is a great oportunity to Cisco to compete and dive into the Artificial Intelligence
+In the AI journey, Cisco is starting to produce it's first external results after C-Suite leadership demanded to the core business units to incorporate AI to their products, Cisco Webex is the first product to provide general availability of AI products to summarize Webex Meetings, catchup information during meetings, and allow a better way to send messages by usign the Webex AI assistantn, this can be seeing as a a key development that will be replicated in other Cisco Core technologies: Producing it's own set AI products that can be used by other vendors and their own core products is a great oportunity to Cisco to compete and dive into the Artificial Intelligence
 market, consulting services around products that produce a lot of data, for example their core networking products, security products and collaboration products, are a key idea that would benefit Cisco, first it would allow it to ride the buzzword wave and get ahead of the competition.
 
 Products like auto device configuration powered by AI, or Auto Data analisys for security or Auto business analitics for products that provide valuable KPIs woudl be a great boost for Cisco.these technologies appropriate for your solution?
